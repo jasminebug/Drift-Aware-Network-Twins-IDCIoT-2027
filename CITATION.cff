@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: 'If you use this research software, cite the associated accepted conference paper and this code repository.'
+title: 'Drift-Aware Reference Shrinkage for Proactive Traffic Engineering with Generative Network Twins'
+type: software
+version: '1.0.0-accepted-paper-metadata'
+license: MIT
+authors:
+  - given-names: Jasmine
+    family-names: Kaur
+  - given-names: Bashar Aswad Kokaz
+    family-names: Al-Saeedi
+  - given-names: Alok
+    family-names: Raj
+    orcid: 'https://orcid.org/0009-0003-7870-7065'
+  - given-names: Pankaj
+    family-names: Vaidya
+    orcid: 'https://orcid.org/0000-0003-1304-630X'
+  - given-names: Anurag
+    family-names: Rana
+    orcid: 'https://orcid.org/0000-0003-0247-8908'
+keywords:
+  - generative network twins
+  - proactive traffic engineering
+  - network telemetry
+  - distribution shift
+  - probabilistic forecasting
+  - uncertainty calibration
+  - drift-aware control
+abstract: 'Implementation companion and transparent research record for a drift-gated approach to network-twin-assisted proactive traffic engineering, with clearly distinguished published-in-manuscript tables and executable diagnostic runs.'

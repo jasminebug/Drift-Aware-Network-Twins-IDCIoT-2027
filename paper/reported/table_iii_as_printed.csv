@@ -1,0 +1,4 @@
+printed_row_index,unlabeled_first_column,printed_second_column,printed_third_column,printed_fourth_column,printed_fifth_column,printed_sixth_column
+printed_row_0,,floor,,(1),raw forecast,gated
+printed_row_1,,11.4%,14.3%,holds,(1/6 lost),
+printed_row_2,,21.0%,22.1%,fails,(4/6 lost),

@@ -1,0 +1,21 @@
+{
+  "paper_title": "Drift-Aware Reference Shrinkage for Proactive Traffic Engineering with Generative Network Twins",
+  "conference": "5th International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT 2027)",
+  "manuscript_id": "IDCIoT-068",
+  "accepted": true,
+  "published": false,
+  "manuscript_name": "IDCIoT-068_IEEE_Template_Formatted.docx",
+  "source_sha256": "62967b0639b55435d275ed72c299bb922dd2a8059a4d20ef6b511e08c13a8bb3",
+  "source_kind": "author_provided_camera_ready_manuscript",
+  "independently_reproduced_by_repo": false,
+  "figures_2_and_5": "redrawn from tables in manuscript, not produced by simulator",
+  "figure_3": "underlying numerical source not supplied",
+  "known_gaps": [
+    "single seed; no multi-seed statistics",
+    "one synthetic NSFNET topology",
+    "S5 discrepancy against original repository",
+    "missing original Table III values",
+    "some code-run quick outputs diverge from Table I and Table II",
+    "original GAN/DRL experiment stack not fully provided"
+  ]
+}
